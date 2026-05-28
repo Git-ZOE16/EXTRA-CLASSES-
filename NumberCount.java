@@ -5,13 +5,15 @@ public class NumberCount{
     
     while 
     (count <= 10){
+    
      System.out.println(count);
+     
      count++;
     }
        
    
      
-    }
+}
  
-    }
+}
 
